@@ -3,7 +3,6 @@ pandas==2.2.2
 numpy==1.26.4
 scikit-learn==1.4.2
 sentence-transformers==2.6.1
-faiss-cpu==1.7.4
 streamlit-aggrid==0.3.4
 openpyxl==3.1.2
 xlrd==2.0.1
