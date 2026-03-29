@@ -1,13 +1,13 @@
-pandas
-scikit-learn
+pandas==2.2.2
+scikit-learn==1.4.2
 torch
 transformers
 datasets
-sentence-transformers
-xlrd
-openpyxl
+sentence-transformers==2.6.1
+xlrd==2.0.1
+openpyxl==3.1.2
 streamlit==1.33.0
-numpy
-streamlit-aggrid
+numpy==1.26.4
+streamlit-aggrid==0.3.4
 altair==4.2.2
 
