@@ -9,4 +9,5 @@ openpyxl
 streamlit
 numpy
 streamlit-aggrid
+altair==4.2.2
 
