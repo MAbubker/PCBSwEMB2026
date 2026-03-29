@@ -6,7 +6,7 @@ datasets
 sentence-transformers
 xlrd
 openpyxl
-streamlit
+streamlit==1.33.0
 numpy
 streamlit-aggrid
 altair==4.2.2
